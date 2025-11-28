@@ -99,4 +99,7 @@ Content-Type: application/json
 ### Eliminar libro
 DELETE http://localhost:3000/libros/1
 
+![Imagen backend conectado](./foto.png)
+
+
 ![Imagen de la nube conectada](./foto.png)
